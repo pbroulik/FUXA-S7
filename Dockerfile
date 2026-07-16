@@ -1,2 +1,2 @@
-FROM frangoteam/fuxa:1.2.4
+FROM frangoteam/fuxa:1.3.3
 npm start
